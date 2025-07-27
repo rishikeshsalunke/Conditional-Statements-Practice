@@ -1,5 +1,9 @@
 # Conditional Statements Practice
 
+![Java](https://img.shields.io/badge/language-Java-orange)
+![Eclipse](https://img.shields.io/badge/IDE-Eclipse-blue)
+![GitHub](https://img.shields.io/badge/hosted_on-GitHub-black)
+
 This repository contains practice programs for conditional statements in Java, such as:
 - if
 - else-if
@@ -20,5 +24,16 @@ Some example programs you might find here:
 - Java
 - Eclipse IDE
 
+## ▶️ How to Run
+
+1. Clone the repository:
+https://github.com/rishikeshsalunke/Conditional-Statements-Practice.git
+2. Open the project in Eclipse.
+
+3. Navigate to `src` folder and run the Java files you want to test.
+
 ## 📌 Note
 This is for learning and practice purpose.
+
+## 📄 License
+This project is licensed for educational purposes.
