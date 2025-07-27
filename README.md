@@ -27,7 +27,7 @@ Some example programs you might find here:
 ## ▶️ How to Run
 
 1. Clone the repository:
-https://github.com/rishikeshsalunke/Conditional-Statements-Practice.git
+git clone https://github.com/rishikeshsalunke/Conditional-Statements-Practice.git
 2. Open the project in Eclipse.
 
 3. Navigate to `src` folder and run the Java files you want to test.
